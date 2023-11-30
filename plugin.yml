@@ -1,0 +1,12 @@
+name: Plugin Profil
+version: 0.0.1
+api: 5.0.0
+main: JustTim\PLProfil\Main
+description: Get plugin information from a server
+author:
+  - JustTim
+website: https://github.com/PocketMine/DevTools
+
+permissions:
+  pluginprofil.cmd.plinfo:
+    default: op
