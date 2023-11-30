@@ -9,7 +9,7 @@ PluginProfil is a PocketMine-MP plugin that allows you to retrieve information a
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/MyPlugin/releases) page.
+1. Download the latest release from the [Releases](https://github.com/JustTimmm/PluginProfil-PMMP/releases) page.
 2. Place the downloaded `.phar` file in the `plugins` folder of your PocketMine-MP server.
 3. Restart or reload your server.
 
