@@ -1,3 +1,5 @@
+<img src="icon.png" alt="icon"/>
+
 # PluginProfil
 
 PluginProfil is a PocketMine-MP plugin that allows you to retrieve information about other plugins installed on the server.
