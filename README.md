@@ -1,4 +1,6 @@
-<img src="icon.png" alt="icon"/>
+<p align="center">
+    <img src="icon.png" alt="icon" align="center"/>
+</p>
 
 # PluginProfil
 
